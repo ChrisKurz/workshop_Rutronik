@@ -4,7 +4,7 @@
 > 5. May 2026, Volketswil <br>
 > 16. April 2026, Hamburg <br>
 > 26. February 2026, Donaueschingen <br>
-> 2. February 2026, Dreieich 
+> 3. February 2026, Dreieich 
 
 
 ## Code Snippets for Hands-On Sessions
