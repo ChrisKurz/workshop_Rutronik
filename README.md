@@ -2,7 +2,6 @@
 ## Workshop Dates/Locations
 
 > 5.May 2026, Volketswil <br>
-> 16.April 2026, Hamburg <br>
 > 26.February 2026, Donaueschingen <br>
 > 3.February 2026, Dreieich 
 
