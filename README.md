@@ -20,7 +20,7 @@ In this repository, you will find the files you need for the hands-on session.
 2) Bluetooth Peripheral LED & Button Service (LBS)
    - [Adding Bluetooth beacon functionality](docs/HandsOn2-1_beacon.md)
    - Build Nordic's _Bluetooth LE LED Button Service_ (nrf/samples/bluetooth/peripheral_lbs) => see slides
-   - [Changing Advertisement information](docs/HandsOn2-3_scanResponse.md)
+   - [optional: Changing Advertisement information](docs/HandsOn2-3_scanResponse.md)
    - [optional: Using LED0 as connection indicator](docs/HandsOn2-4_connection.md)
      
 4) Nordic PMIC & Fuel Gauge Integration
