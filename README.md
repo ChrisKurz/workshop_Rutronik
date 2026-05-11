@@ -1,6 +1,7 @@
 # Rutronik/Nordic Semiconductor Workshop: <br> _Wireless IoT Entwicklung mit Nordic Semiconductor_
 ## Workshop Dates/Locations
 
+> 21.July 2026, München <br>
 > 5.May 2026, Volketswil <br>
 > 16.April 2026, Hamburg <br>
 > 26.February 2026, Donaueschingen <br>
