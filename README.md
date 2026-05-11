@@ -10,8 +10,6 @@
 
 ## Code Snippets for Hands-On Sessions
 
-In this repository, you will find the files you need for the hands-on session. 
-
 1) Introduction to IDE and Blinky Application
    - Build the Zephyr's __blinky__ Sample => see slides
    - [Zephyr's blinky Sample: Change the LED pin in DeviceTree](docs/HandsOn1-2_deviceTree.md)
